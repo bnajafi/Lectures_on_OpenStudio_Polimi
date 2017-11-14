@@ -10,7 +10,13 @@ SketchUp make: https://www.sketchup.com/download/all
 EnergyPlus: https://energyplus.net/downloads
 OpenStudio: https://www.openstudio.net/downloads
 
-In case you are using 64 bit windows and one of the mentioned websites are down, you can download the corresponding files from the following link: https://goo.gl/QKp9P7
+In case you are using 64 bit windows and any of the mentioned websites are down, you can download the corresponding files from the following link: https://goo.gl/QKp9P7
+
+Furthermore, it is noteworthy that, in case you already have the SketchUp software installed on your computer, you might have to re-install it as the OpenStudio version might not be compatible with your installed version of SketchUp. Moreover, Please pay attention that we are going to use SketchUp Make and not SketchUp Pro which is a commercial software. 
+In order to check whether you have correctly installed the above-mentioned softwares, you should verify that you have the OpenStudio add-on added to your SketchUp tools.
+
+
+
 
 
 
