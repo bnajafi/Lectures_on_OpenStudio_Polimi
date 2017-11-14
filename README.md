@@ -1,6 +1,6 @@
 # Lectures_on_OpenStudio_Polimi
 
-In this repository you can find the required files of my lectures on "Building Energy Simulation using OpenStudio" for M.Sc. courses of "Energy and Environmental Technologies for Building System (Energy Engineering program)" and "Technical Environmental Systems (Sustainable Architcetures and Landscape Design program)" at Politecnico di Milano. 
+In this repository you can find the required files of my lectures on "Building Energy Simulation using OpenStudio" for M.Sc. courses of "Energy and Environmental Technologies for Building System (Energy Engineering program)" and "Technical Environmental Systems (Sustainable Architcetures and Landscape Design program)" at Politecnico di Milano. These lectures are based on the official tutorials of OpenStudio and all of the corresponding rights are attributed to the OpenStudio (Open source (LGPL)) project.
 
 In case you are following this course in the context of M.Sc. couse of "Technical Environmental Systems", please make sure you have filled in the following survey: https://goo.gl/forms/MC5MowvX5dCo2BLE3
 
