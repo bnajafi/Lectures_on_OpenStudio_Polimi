@@ -19,6 +19,8 @@ In this repository I am only including the weather data of Milano Linate and Pia
 
 In our lessons we are going to use NREL's Building component library, in order to follow the corresponding lecture, you should  go the NREL's Building Component Library's Website (https://bcl.nrel.gov/) and create an account.  In the latter website, once you create an account, you are given a unique API key in your dashboard. You should save this number so that it would be easily accessible for you.
 
+For Uploading your projects, you might have to use GIT  which you can download from the following Link: https://git-scm.com/downloads
+
 
 
 
