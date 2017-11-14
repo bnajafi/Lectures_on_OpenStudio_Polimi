@@ -1,0 +1,973 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {ea076e6e-fa1d-44e0-ae09-d22432b29aa5} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {ea076e6e-fa1d-44e0-ae09-d22432b29aa5} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {ea076e6e-fa1d-44e0-ae09-d22432b29aa5} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {ea076e6e-fa1d-44e0-ae09-d22432b29aa5} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {cd567056-a512-4227-af08-1e0943eecb8e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {cd567056-a512-4227-af08-1e0943eecb8e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {cd567056-a512-4227-af08-1e0943eecb8e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {cd567056-a512-4227-af08-1e0943eecb8e} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {9487104f-b54d-4c47-b438-80df8ce05a24} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {9487104f-b54d-4c47-b438-80df8ce05a24} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {9487104f-b54d-4c47-b438-80df8ce05a24} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {9487104f-b54d-4c47-b438-80df8ce05a24} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {36306a9f-fc98-4953-bee8-4729f8b21e7e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {36306a9f-fc98-4953-bee8-4729f8b21e7e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {36306a9f-fc98-4953-bee8-4729f8b21e7e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {36306a9f-fc98-4953-bee8-4729f8b21e7e} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {624a5ba2-6f1c-4fd6-af82-84069265f10d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {624a5ba2-6f1c-4fd6-af82-84069265f10d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {624a5ba2-6f1c-4fd6-af82-84069265f10d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {624a5ba2-6f1c-4fd6-af82-84069265f10d} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 00000023B62FF870
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/behzad/OpenStudio/Measures
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.model.WeatherFile] <-2> Setting weather file url to file:files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.setFileExtension] <0> Path p, 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI Technical Environmental Systems Shared Folder/Weather Data/ITA_Piacenza.160840_IGDG.ddy', has an unexpected file extension. Was expecting 'idf'.
+[openstudio.energyplus.GeometryTranslator] <0> Could not find GlobalGeometryRules object, assuming defaults
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio::RunView] <-2> playButtonClicked 1
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources to C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/files' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/scripts' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/files' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/scripts' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/scripts'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/scripts' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/scripts'
+[openstudio::RunView] <-2> updateToolsWarnings called
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: Ruby C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/bin -.-.-.-
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: Radiance C:/Program Files/OpenStudio 1.11.0/share/openstudio/Radiance/bin -.-.-.-
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/Radiance/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/Radiance/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: EnergyPlus C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0 8.5.0.c87e61b44b
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio::RunView] <-2> updateToolsWarnings called
+[openstudio.runmanager.RubyJobUtils] <1> Input file type is "Unknown" unable to add it.
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb
+[openstudio.runmanager.RubyJobUtils] <-1> Adding input file of type: IDF to be copied to in.idf
+[openstudio.runmanager.RubyJobUtils] <-1> Copying all required files from IDF to IDF
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb
+[openstudio.runmanager.Workflow] <-2> Creating workflow with outdir C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run infile C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm epwlocation 
+[openstudio.runmanager.Workflow] <-2> creating workflow
+[openstudio.runmanager.Workflow] <-2> Workflow contains file C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm
+[openstudio.runmanager.NormalizeURLs] <-2> Analyzing file for URLs to update C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm
+[openstudio.runmanager.NormalizeURLs] <-2> time to load idf: 0.055
+[openstudio.runmanager.NormalizeURLs] <-2> Successfully loaded idf file into workspace containing 924 objects
+[utilities.idf.Workspace] <-2> Url found in file: file:files/ITA_Piacenza.160840_IGDG.epw
+[utilities.idf.Workspace] <-2> Url is relative or 'file'
+[utilities.idf.Workspace] <-2> Source URL:  for original URL: file:files/ITA_Piacenza.160840_IGDG.epw
+[utilities.idf.Workspace] <1> URL Found in IDF: file:files/ITA_Piacenza.160840_IGDG.epw but no source could be located.
+[openstudio.runmanager.NormalizeURLs] <-2> time to locate URL's: 0
+[openstudio.runmanager.NormalizeURLs] <-1> No URLs found in input
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {bfab1499-a2e8-47ea-aacd-1e7219fc5d80} Null Job
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {f3888530-728b-4acc-82fb-01c0b6e08b9f} ModelToIdf
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {37f8f006-6dba-401c-8d0f-6964ad1a7b02} ExpandObjects
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {0806cd57-4d84-4134-98d8-7453b1e020b0} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {99d6423a-a15a-45f3-99b5-47381b83ab2e} EnergyPlusPreProcess
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {6bc749b5-1960-49f7-a5f9-335a17f2abfe} EnergyPlus
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {eeed288f-2697-4906-b7fd-c7c852bb8fbb} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {790ad893-56c2-4b8d-82a0-d2e5a202f449} OpenStudioPostProcess
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {bfab1499-a2e8-47ea-aacd-1e7219fc5d80}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {bfab1499-a2e8-47ea-aacd-1e7219fc5d80}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {bfab1499-a2e8-47ea-aacd-1e7219fc5d80}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {f3888530-728b-4acc-82fb-01c0b6e08b9f}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {f3888530-728b-4acc-82fb-01c0b6e08b9f}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {f3888530-728b-4acc-82fb-01c0b6e08b9f}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {37f8f006-6dba-401c-8d0f-6964ad1a7b02}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {37f8f006-6dba-401c-8d0f-6964ad1a7b02}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {37f8f006-6dba-401c-8d0f-6964ad1a7b02}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb to user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {0806cd57-4d84-4134-98d8-7453b1e020b0}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {0806cd57-4d84-4134-98d8-7453b1e020b0}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {0806cd57-4d84-4134-98d8-7453b1e020b0}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {99d6423a-a15a-45f3-99b5-47381b83ab2e}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {99d6423a-a15a-45f3-99b5-47381b83ab2e}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {99d6423a-a15a-45f3-99b5-47381b83ab2e}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {6bc749b5-1960-49f7-a5f9-335a17f2abfe}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {6bc749b5-1960-49f7-a5f9-335a17f2abfe}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {6bc749b5-1960-49f7-a5f9-335a17f2abfe}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb to user_script.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb to resources/os_lib_schedules.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb to resources/os_lib_helper_methods.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb to resources/report.html.erb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb to resources/os_lib_reporting.rb
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {eeed288f-2697-4906-b7fd-c7c852bb8fbb}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {eeed288f-2697-4906-b7fd-c7c852bb8fbb}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {eeed288f-2697-4906-b7fd-c7c852bb8fbb}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {790ad893-56c2-4b8d-82a0-d2e5a202f449}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {790ad893-56c2-4b8d-82a0-d2e5a202f449}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {790ad893-56c2-4b8d-82a0-d2e5a202f449}
+[openstudio.runmanager.RunManager] <-1> RunManager queue paused state changed 0
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {bfab1499-a2e8-47ea-aacd-1e7219fc5d80} Null Job
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {bfab1499-a2e8-47ea-aacd-1e7219fc5d80} Null Job
+[openstudio.runmanager.Null] <-1> Null starting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {bfab1499-a2e8-47ea-aacd-1e7219fc5d80} Null Job
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {f3888530-728b-4acc-82fb-01c0b6e08b9f} ModelToIdf
+[openstudio.runmanager.ModelToIdf] <-1> ModelToIdf starting, filename: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm
+[openstudio.runmanager.ModelToIdf] <-1> ModelToIdf starting, outdir: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/1-ModelToIdf-0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.osversion.VersionTranslator] <-2> Starting translation from Version 1.11.0.
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {bfab1499-a2e8-47ea-aacd-1e7219fc5d80}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {bfab1499-a2e8-47ea-aacd-1e7219fc5d80} 2017-Jan-18 15:47:16
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {bfab1499-a2e8-47ea-aacd-1e7219fc5d80}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {bfab1499-a2e8-47ea-aacd-1e7219fc5d80}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {bfab1499-a2e8-47ea-aacd-1e7219fc5d80}
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {bfab1499-a2e8-47ea-aacd-1e7219fc5d80}
+[openstudio.osversion.VersionTranslator] <-2> Initial model has 924 objects.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 924 objects in IDF form.
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[utilities.idf.Workspace] <-2> Workspace::isValid called.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 924 objects in Model form.
+[openstudio.runmanager.ModelToIdf] <-2> Looking for weather file at ModelObject specified location: files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.ModelToIdf] <-2> Completed weatherfile location: files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.ModelToIdf] <-2> Attempting to use OSM base path to find weather file
+[openstudio.runmanager.ModelToIdf] <-2> Attempting to use OSM parent path / resources to find weather file
+[openstudio.runmanager.ModelToIdf] <-2> Final selected weatherFile: file:///C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Sm Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Stair - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Md Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - PrintRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Stair - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - IT_Room - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Elec/MechRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Corridor - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - IT_Room - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Vending - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Lobby - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - BreakRoom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Storage - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - ClosedOffice - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Md Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Restroom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Lobby - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Sm Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - ClosedOffice - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Conference - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Elec/MechRoom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Lg Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Conference - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Corridor - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Restroom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Vending - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Lg Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - PrintRoom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - OpenOffice - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Storage - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - BreakRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always On Discrete', points to an object named OnOff from field 1, but that object cannot be located.
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always Off Discrete', points to an object named OnOff 1 from field 1, but that object cannot be located.
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always On Continuous', points to an object named Fractional 1 from field 1, but that object cannot be located.
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {f3888530-728b-4acc-82fb-01c0b6e08b9f}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {f3888530-728b-4acc-82fb-01c0b6e08b9f} 2017-Jan-18 15:47:16
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {f3888530-728b-4acc-82fb-01c0b6e08b9f}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {37f8f006-6dba-401c-8d0f-6964ad1a7b02} ExpandObjects
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {f3888530-728b-4acc-82fb-01c0b6e08b9f}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {f3888530-728b-4acc-82fb-01c0b6e08b9f}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile in.idf
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {37f8f006-6dba-401c-8d0f-6964ad1a7b02}
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {f3888530-728b-4acc-82fb-01c0b6e08b9f}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: expandobjects
+[openstudio.runmanager.WeatherFileFinder] <-2> Location name field from IDF: Piacenza
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: expandobjects version: 8.5.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: expandobjects 8.5.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: expandobjects version: 8.5.0.c87e61b44b
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/1-ModelToIdf-0/in.idf to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/Energy+.idd to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/1-ModelToIdf-0/in.idf -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: Energy+.idd -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/ExpandObjects.exe
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {37f8f006-6dba-401c-8d0f-6964ad1a7b02}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {37f8f006-6dba-401c-8d0f-6964ad1a7b02} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> No osresult file found at: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {37f8f006-6dba-401c-8d0f-6964ad1a7b02}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {0806cd57-4d84-4134-98d8-7453b1e020b0} UserScript (UserScriptAdapter.rb)
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {37f8f006-6dba-401c-8d0f-6964ad1a7b02}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {37f8f006-6dba-401c-8d0f-6964ad1a7b02} 2017-Jan-18 15:47:17
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {37f8f006-6dba-401c-8d0f-6964ad1a7b02}
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {37f8f006-6dba-401c-8d0f-6964ad1a7b02}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {0806cd57-4d84-4134-98d8-7453b1e020b0}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {37f8f006-6dba-401c-8d0f-6964ad1a7b02}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile expanded.idf
+[openstudio.runmanager.RubyJob] <-1> Starting job
+[openstudio.runmanager.RubyJob] <-1> Getting files
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/expanded.idf to: in.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {37f8f006-6dba-401c-8d0f-6964ad1a7b02}
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/expanded.idf to: in-2.idf
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm to: in.osm
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-1> Found last EpwFile 'in.epw' attached to last EnergyPlus Workspace
+[openstudio.runmanager.ToolBasedJob] <1> acquireRequiredFiles: Unable to add file From: 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw' to 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.epw'. Existing required file from: 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw' to 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.epw' already exists.
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to be installed at: in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.RubyJob] <-1> Found EpwFile in list of required files 'in.epw' preferred over previous relative location of: in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: ruby
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: ruby version: -.-.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: ruby -.-.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: ruby version: -.-.-.-
+[openstudio.runmanager.ToolBasedJob] <1> acquireRequiredFiles: Unable to add file From: 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw' to 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.epw'. Existing required file from: 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw' to 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.epw' already exists.
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to be installed at: in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/expanded.idf to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/expanded.idf to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/expanded.idf -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/expanded.idf -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/bin/ruby.exe
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I.
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I
+[openstudio.runmanager.LocalProcess] <-2> Adding param: C:/Program Files/OpenStudio 1.11.0/Ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: in.rb
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --argumentName=measures_json
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --argumentValue=[{"arguments":{},"measure":"C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb"}]
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastOpenStudioModelPath=C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusWorkspacePath=C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEpwFilePathArgument=C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {0806cd57-4d84-4134-98d8-7453b1e020b0}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {0806cd57-4d84-4134-98d8-7453b1e020b0} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Attempting to load results for merged job: 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting osresult files: 1
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {0806cd57-4d84-4134-98d8-7453b1e020b0}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {99d6423a-a15a-45f3-99b5-47381b83ab2e} EnergyPlusPreProcess
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {0806cd57-4d84-4134-98d8-7453b1e020b0}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {0806cd57-4d84-4134-98d8-7453b1e020b0} 2017-Jan-18 15:47:17
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {0806cd57-4d84-4134-98d8-7453b1e020b0}
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {0806cd57-4d84-4134-98d8-7453b1e020b0}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {0806cd57-4d84-4134-98d8-7453b1e020b0}
+[openstudio.runmanager.EnergyPlusPreProcessJob] <-1> EnergyPlusPreProcess starting, outdir: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/4-EnergyPlusPreProcess-0
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile example.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile out.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile params.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile result.ossr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stderr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {0806cd57-4d84-4134-98d8-7453b1e020b0}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {99d6423a-a15a-45f3-99b5-47381b83ab2e}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {99d6423a-a15a-45f3-99b5-47381b83ab2e} 2017-Jan-18 15:47:25
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {6bc749b5-1960-49f7-a5f9-335a17f2abfe} EnergyPlus
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {99d6423a-a15a-45f3-99b5-47381b83ab2e}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {6bc749b5-1960-49f7-a5f9-335a17f2abfe}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: energyplus
+[openstudio.runmanager.WeatherFileFinder] <-2> Location name field from IDF: Piacenza
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: energyplus version: 8.5.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: energyplus 8.5.-.-
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: energyplus version: 8.5.0.c87e61b44b
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/4-EnergyPlusPreProcess-0/out.idf to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/in.idf
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {99d6423a-a15a-45f3-99b5-47381b83ab2e}
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {99d6423a-a15a-45f3-99b5-47381b83ab2e}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile out.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {99d6423a-a15a-45f3-99b5-47381b83ab2e}
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/Energy+.idd to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/4-EnergyPlusPreProcess-0/out.idf -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: Energy+.idd -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/energyplus.exe
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {6bc749b5-1960-49f7-a5f9-335a17f2abfe}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {6bc749b5-1960-49f7-a5f9-335a17f2abfe} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting error file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.ToolBasedJob] <-2> No osresult file found at: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {6bc749b5-1960-49f7-a5f9-335a17f2abfe}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {6bc749b5-1960-49f7-a5f9-335a17f2abfe}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {6bc749b5-1960-49f7-a5f9-335a17f2abfe} 2017-Jan-18 15:47:25
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {6bc749b5-1960-49f7-a5f9-335a17f2abfe}
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {eeed288f-2697-4906-b7fd-c7c852bb8fbb} UserScript (UserScriptAdapter.rb)
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {eeed288f-2697-4906-b7fd-c7c852bb8fbb}
+[openstudio.runmanager.RubyJob] <-1> Starting job
+[openstudio.runmanager.RubyJob] <-1> Getting files
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {6bc749b5-1960-49f7-a5f9-335a17f2abfe}
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/4-EnergyPlusPreProcess-0/out.idf to: in.idf
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {6bc749b5-1960-49f7-a5f9-335a17f2abfe}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.audit
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.bnd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.eio
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.end
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.err
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.eso
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mdd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mtd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mtr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.rdd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.shd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.sql
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplustbl.htm
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile epluszsz.csv
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile sqlite.err
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stderr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {6bc749b5-1960-49f7-a5f9-335a17f2abfe}
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm to: in.osm
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/example.json
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/out.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/params.json
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/result.ossr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/stderr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.audit
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.bnd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.eio
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.end
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.eso
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.mdd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.mtd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.mtr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.rdd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.shd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplustbl.htm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/epluszsz.csv
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/sqlite.err
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/stderr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_schedules.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_helper_methods.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/report.html.erb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_reporting.rb
+[openstudio.runmanager.RubyJob] <-1> Found last EpwFile 'in.epw' attached to last EnergyPlus Workspace
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to be installed at: in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.RubyJob] <-1> Found EpwFile in list of required files 'in.epw' preferred over previous relative location of: in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: ruby
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: ruby version: -.-.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: ruby -.-.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: ruby version: -.-.-.-
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to be installed at: in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/4-EnergyPlusPreProcess-0/out.idf to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb to C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/4-EnergyPlusPreProcess-0/out.idf -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files/ITA_Piacenza.160840_IGDG.epw -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb -> C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/bin/ruby.exe
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I.
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I
+[openstudio.runmanager.LocalProcess] <-2> Adding param: C:/Program Files/OpenStudio 1.11.0/Ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: in.rb
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastOpenStudioModelPath=C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusWorkspacePath=C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusSqlFilePath=C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEpwFilePathArgument=C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {eeed288f-2697-4906-b7fd-c7c852bb8fbb}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {eeed288f-2697-4906-b7fd-c7c852bb8fbb} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Attempting to load results for merged job: 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting osresult files: 1
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {eeed288f-2697-4906-b7fd-c7c852bb8fbb}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {790ad893-56c2-4b8d-82a0-d2e5a202f449} OpenStudioPostProcess
+[openstudio.runmanager.OpenStudioPostProcessJob] <-1> OpenStudioPostProcess starting, filename: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.OpenStudioPostProcessJob] <-1> OpenStudioPostProcess starting, outdir: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/7-OpenStudioPostProcess-0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {eeed288f-2697-4906-b7fd-c7c852bb8fbb}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {eeed288f-2697-4906-b7fd-c7c852bb8fbb} 2017-Jan-18 15:47:39
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {eeed288f-2697-4906-b7fd-c7c852bb8fbb}
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {eeed288f-2697-4906-b7fd-c7c852bb8fbb}
+[openstudio.energyplus.SqlFile] <-2> Dictionary Built
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {eeed288f-2697-4906-b7fd-c7c852bb8fbb}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile params.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile report.html
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile result.ossr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stderr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {eeed288f-2697-4906-b7fd-c7c852bb8fbb}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.OpenStudioPostProcessJob] <-2> Extracting attributes from model::Building.
+[openstudio.runmanager.OpenStudioPostProcessJob] <-2> Extracting attributes from model::Facility.
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/example.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/out.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/params.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/result.ossr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/stdout
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.audit
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.bnd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.eio
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.end
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.eso
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.mdd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.mtd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.mtr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.rdd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.shd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplustbl.htm
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/epluszsz.csv
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/sqlite.err
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/stdout
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/params.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/report.html
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/result.ossr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/stdout
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/7-OpenStudioPostProcess-0/report.xml
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {790ad893-56c2-4b8d-82a0-d2e5a202f449}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {790ad893-56c2-4b8d-82a0-d2e5a202f449} 2017-Jan-18 15:47:53
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {790ad893-56c2-4b8d-82a0-d2e5a202f449}
+[openstudio::RunView] <-2> Tree finished, status is: Finished
+[openstudio::RunView] <-2> Tree finished, error getting radout.sql file: getLastByFilename: FileInfo not found: radout.sql
+[openstudio::RunView] <-2> Emitting results generated for sqlfile: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.sql and radiance file 
+[saveModelTempDir] <-2> Copying C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources to C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/files' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/scripts' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/files' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/0-Null' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/0-Null'
+[copyDir] <-1> Creating directory named = '0-Null' in parentDstDir = 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/0-Null' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/1-ModelToIdf-0' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/1-ModelToIdf-0'
+[copyDir] <-1> Creating directory named = '1-ModelToIdf-0' in parentDstDir = 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/1-ModelToIdf-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/2-ExpandObjects-0'
+[copyDir] <-1> Creating directory named = '2-ExpandObjects-0' in parentDstDir = 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/2-ExpandObjects-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/3-UserScript-0'
+[copyDir] <-1> Creating directory named = '3-UserScript-0' in parentDstDir = 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/3-UserScript-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/4-EnergyPlusPreProcess-0' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> Creating directory named = '4-EnergyPlusPreProcess-0' in parentDstDir = 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/5-EnergyPlus-0'
+[copyDir] <-1> Creating directory named = '5-EnergyPlus-0' in parentDstDir = 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/5-EnergyPlus-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/6-UserScript-0'
+[copyDir] <-1> Creating directory named = '6-UserScript-0' in parentDstDir = 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/6-UserScript-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/7-OpenStudioPostProcess-0' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> Creating directory named = '7-OpenStudioPostProcess-0' in parentDstDir = 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/7-OpenStudioPostProcess-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/scripts' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/scripts'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/scripts' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/scripts'
+[openstudio.runmanager.RunManager] <-1> RunManager queue paused state changed 1
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run.db) Persisting job status for {790ad893-56c2-4b8d-82a0-d2e5a202f449}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {790ad893-56c2-4b8d-82a0-d2e5a202f449}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile report.xml
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {790ad893-56c2-4b8d-82a0-d2e5a202f449}
+[openstudio::RunView] <-2> Tree finished, status is: Finished
+[openstudio::RunView] <-2> Tree finished, error getting radout.sql file: getLastByFilename: FileInfo not found: radout.sql
+[openstudio::RunView] <-2> Emitting results generated for sqlfile: C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0/eplusout.sql and radiance file 
+[saveModelTempDir] <-2> Copying C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources to C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/files' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/0-Null' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/1-ModelToIdf-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/2-ExpandObjects-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/3-UserScript-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/5-EnergyPlus-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/6-UserScript-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/run/7-OpenStudioPostProcess-0' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/scripts' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/4 Open Studio Files/Dec 22/ThermalZonesAdded/files' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.Ua3252/resources/files'
