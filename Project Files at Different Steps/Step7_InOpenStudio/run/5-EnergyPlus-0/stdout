@@ -1,0 +1,212 @@
+EnergyPlus Starting
+EnergyPlus, Version 8.5.0-c87e61b44b, YMD=2017.11.14 22:56
+Processing Data Dictionary
+Processing Input File
+Initializing Response Factors
+Calculating CTFs for "AIR WALL", Construction # 1
+Calculating CTFs for "ASHRAE 189.1-2009 EXTROOF IEAD CLIMATEZONE 1", Construction # 2
+Calculating CTFs for "ASHRAE 189.1-2009 EXTROOF IEAD CLIMATEZONE 2-5", Construction # 3
+Calculating CTFs for "ASHRAE 189.1-2009 EXTROOF IEAD CLIMATEZONE 7-8", Construction # 4
+Calculating CTFs for "ASHRAE 189.1-2009 EXTROOF METAL CLIMATEZONE 6", Construction # 5
+Calculating CTFs for "ASHRAE 189.1-2009 EXTWALL MASS CLIMATEZONE 1", Construction # 6
+Calculating CTFs for "ASHRAE 189.1-2009 EXTWALL MASS CLIMATEZONE 2", Construction # 7
+Calculating CTFs for "ASHRAE 189.1-2009 EXTWALL MASS CLIMATEZONE 3", Construction # 8
+Calculating CTFs for "ASHRAE 189.1-2009 EXTWALL MASS CLIMATEZONE 4", Construction # 9
+Calculating CTFs for "ASHRAE 189.1-2009 EXTWALL MASS CLIMATEZONE 5", Construction # 10
+Calculating CTFs for "ASHRAE 189.1-2009 EXTWALL MASS CLIMATEZONE 6", Construction # 11
+Calculating CTFs for "ASHRAE 189.1-2009 EXTWALL MASS CLIMATEZONE 7-8", Construction # 12
+Calculating CTFs for "EXTERIOR DOOR", Construction # 19
+Calculating CTFs for "EXTSLABCARPET 4IN CLIMATEZONE 1-8", Construction # 20
+Calculating CTFs for "INTERIOR CEILING", Construction # 21
+Calculating CTFs for "INTERIOR DOOR", Construction # 22
+Calculating CTFs for "INTERIOR WALL", Construction # 25
+Initializing Window Optical Properties
+Initializing Solar Calculations
+Allocate Solar Module Arrays
+Initializing Zone Report Variables
+Initializing Surface (Shading) Report Variables
+Computing Interior Solar Absorption Factors
+Determining Shadowing Combinations
+Computing Window Shade Absorption Factors
+Proceeding with Initializing Solar Calculations
+Initializing Surfaces
+Initializing Outdoor environment for Surfaces
+Setting up Surface Reporting Variables
+Initializing Temperature and Flux Histories
+Initializing Window Shading
+Computing Interior Absorption Factors
+Computing Interior Diffuse Solar Absorption Factors
+Computing Interior Diffuse Solar Exchange through Interzone Windows
+Initializing Solar Heat Gains
+Initializing Internal Heat Gains
+Initializing Interior Solar Distribution
+Initializing Interior Convection Coefficients
+Gathering Information for Predefined Reporting
+Completed Initializing Surface Heat Balance
+Calculate Outside Surface Heat Balance
+Calculate Inside Surface Heat Balance
+Calculate Air Heat Balance
+Initializing HVAC
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #1 MILANO-LINATE ANN CLG .4% CONDNS DB=>MWB
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #2 MILANO-LINATE ANN CLG .4% CONDNS DP=>MDB
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #3 MILANO-LINATE ANN CLG .4% CONDNS ENTH=>MDB
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #4 MILANO-LINATE ANN CLG .4% CONDNS WB=>MDB
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #5 MILANO-LINATE ANN HTG 99.6% CONDNS DB
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #6 MILANO-LINATE ANN HTG WIND 99.6% CONDNS WS=>MCDB
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #7 MILANO-LINATE ANN HUM_N 99.6% CONDNS DP=>MCDB
+Initializing Simulation
+Reporting Surfaces
+Beginning Primary Simulation
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Starting Simulation at 07/21 for MILANO-LINATE ANN CLG .4% CONDNS DB=>MWB
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Starting Simulation at 07/21 for MILANO-LINATE ANN CLG .4% CONDNS DP=>MDB
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Starting Simulation at 07/21 for MILANO-LINATE ANN CLG .4% CONDNS ENTH=>MDB
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Starting Simulation at 07/21 for MILANO-LINATE ANN CLG .4% CONDNS WB=>MDB
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Starting Simulation at 01/21 for MILANO-LINATE ANN HTG 99.6% CONDNS DB
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Starting Simulation at 01/21 for MILANO-LINATE ANN HTG WIND 99.6% CONDNS WS=>MCDB
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Starting Simulation at 01/21 for MILANO-LINATE ANN HUM_N 99.6% CONDNS DP=>MCDB
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Starting Simulation at 01/01 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=01/21
+Continuing Simulation at 01/21 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=02/10
+Continuing Simulation at 02/10 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=03/02
+Continuing Simulation at 03/02 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=03/22
+Continuing Simulation at 03/22 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=04/11
+Continuing Simulation at 04/11 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=05/01
+Continuing Simulation at 05/01 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=05/21
+Continuing Simulation at 05/21 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=06/10
+Continuing Simulation at 06/10 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=06/30
+Continuing Simulation at 06/30 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=07/20
+Continuing Simulation at 07/20 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=08/09
+Continuing Simulation at 08/09 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=08/29
+Continuing Simulation at 08/29 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=09/18
+Continuing Simulation at 09/18 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=10/08
+Continuing Simulation at 10/08 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=10/28
+Continuing Simulation at 10/28 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=11/17
+Continuing Simulation at 11/17 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=12/07
+Continuing Simulation at 12/07 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=12/27
+Continuing Simulation at 12/27 for RUN PERIOD 1
+Writing tabular output file results using HTML format.
+Computing Life Cycle Costs and Reporting
+Writing final SQL reports
+EnergyPlus Run Time=00hr 00min 15.15sec

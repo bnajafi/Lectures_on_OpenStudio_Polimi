@@ -1,0 +1,68 @@
+Script executing from: C:/Users/behzad/AppData/Local/Temp/OpenStudio.xF2812/resources/run/3-UserScript-0
+Found argument 'measures_json' with value '[{"arguments":{},"measure":"C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb"}]'.
+Found UserScript 'Report Request'.
+Looking for building_summary_section (Model Summary)
+Boolean, Required
+Value: (true)
+Looking for annual_overview_section (Annual Overview)
+Boolean, Required
+Value: (true)
+Looking for monthly_overview_section (Monthly Overview)
+Boolean, Required
+Value: (true)
+Looking for utility_bills_rates_section (Utility Bills/Rates)
+Boolean, Required
+Value: (true)
+Looking for envelope_section_section (Envelope)
+Boolean, Required
+Value: (true)
+Looking for space_type_breakdown_section (Space Type Breakdown)
+Boolean, Required
+Value: (true)
+Looking for space_type_details_section (Space Type Summary)
+Boolean, Required
+Value: (true)
+Looking for interior_lighting_section (Interior Lighting Summary)
+Boolean, Required
+Value: (true)
+Looking for plug_loads_section (Plug Loads Summary)
+Boolean, Required
+Value: (true)
+Looking for exterior_light_section (Exterior Lighting)
+Boolean, Required
+Value: (true)
+Looking for water_use_section (Water Use Equipment)
+Boolean, Required
+Value: (true)
+Looking for hvac_load_profile (HVAC Load Profiles)
+Boolean, Required
+Value: (true)
+Looking for zone_condition_section (Zone Conditions)
+Boolean, Required
+Value: (true)
+Looking for zone_summary_section (Zone Overview)
+Boolean, Required
+Value: (true)
+Looking for zone_equipment_detail_section (Zone Equipment Detail)
+Boolean, Required
+Value: (true)
+Looking for air_loops_detail_section (Air Loops Detail)
+Boolean, Required
+Value: (true)
+Looking for plant_loops_detail_section (Plant Loops Detail)
+Boolean, Required
+Value: (true)
+Looking for outdoor_air_section (Outdoor Air)
+Boolean, Required
+Value: (true)
+Looking for cost_summary_section (Cash Flow)
+Boolean, Required
+Value: (true)
+Looking for source_energy_section (Site and Source Summary)
+Boolean, Required
+Value: (true)
+Looking for schedules_overview_section (Schedule Overview)
+Boolean, Required
+Value: (true)
+result = true
+Processed 1 base script and 0 merged scripts
