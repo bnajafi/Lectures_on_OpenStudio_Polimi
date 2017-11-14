@@ -14,6 +14,9 @@ In case you are using 64 bit windows and any of the mentioned websites are down,
 
 Furthermore, it is noteworthy that, in case you already have the SketchUp software installed on your computer, you might have to re-install it as the OpenStudio version might not be compatible with your installed version of SketchUp. In order to check whether you have correctly installed the above-mentioned softwares, you should verify that you have the OpenStudio add-on added to your SketchUp tools.
 
+In order to insert local climatic information, we are going to use EnergyPlus weather database https://energyplus.net/weather
+In this repository I am only including the weather data of Milano Linate and Piacenza which we use in our lessons, you can find the weather data files of any other city in the above mentioned website.
+
 In our lessons we are going to use NREL's Building component library, in order to follow the corresponding lecture, you should  go the NREL's Building Component Library's Website (https://bcl.nrel.gov/) and create an account.  In the latter website, once you create an account, you are given a unique API key in your dashboard. You should save this number so that it would be easily accessible for you.
 
 
