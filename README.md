@@ -2,7 +2,7 @@
 
 In this repository you can find the required files of my lectures on "Building Energy Simulation using OpenStudio" for M.Sc. courses of "Energy and Environmental Technologies for Building System (Energy Engineering program)" and "Technical Environmental Systems (Sustainable Architcetures and Landscape Design program)" at Politecnico di Milano. These lectures are based on the official tutorials of OpenStudio and all of the corresponding rights are attributed to the OpenStudio (Open source (LGPL)) project.
 
-In case you are following this course in the context of M.Sc. couse of "Technical Environmental Systems", please make sure you have filled inn this: [survey](https://goo.gl/forms/MC5MowvX5dCo2BLE3)
+In case you are following this course in the context of M.Sc. couse of "Technical Environmental Systems", please make sure you have filled inn this [survey](https://goo.gl/forms/MC5MowvX5dCo2BLE3)
 
 
 In order to follow these Lectures you will need to have SketchUp Make, EnergyPlus, and OpenStudio installed on your computer. You can find the installation files of these software which are coherent with your operating system (including Windows, Mac, and Linux) in the following links:
