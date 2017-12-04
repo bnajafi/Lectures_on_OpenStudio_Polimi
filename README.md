@@ -2,7 +2,8 @@
 
 In this repository you can find the required files of my lectures on "Building Energy Simulation using OpenStudio" for M.Sc. courses of "Energy and Environmental Technologies for Building System (Energy Engineering program)" and "Technical Environmental Systems (Sustainable Architcetures and Landscape Design program)" at Politecnico di Milano. These lectures are based on the official tutorials of OpenStudio and all of the corresponding rights are attributed to the OpenStudio (Open source (LGPL)) project.
 
-In case you are following this course in the context of M.Sc. couse of "Technical Environmental Systems", please make sure you have filled in the following survey: https://goo.gl/forms/MC5MowvX5dCo2BLE3
+In case you are following this course in the context of M.Sc. couse of "Technical Environmental Systems", please make sure you have filled inn this: [survey](https://goo.gl/forms/MC5MowvX5dCo2BLE3)
+
 
 In order to follow these Lectures you will need to have SketchUp Make, EnergyPlus, and OpenStudio installed on your computer. You can find the installation files of these software which are coherent with your operating system (including Windows, Mac, and Linux) in the following links:
 [SketchUp make](https://www.sketchup.com/download/all)
@@ -19,7 +20,7 @@ In this repository I am only including the weather data of Milano Linate and Pia
 
 In our lessons we are going to use NREL's Building component library, in order to follow the corresponding lecture, you should  go the NREL's  and create an account.  In the latter website, once you create an account, you are given a unique API key in your dashboard. You should save this number so that it would be easily accessible for you.
 
-For Uploading your projects, you might have to use GIT  which you can download from the following : [Link](https://git-scm.com/downloads)
+For Uploading your projects, you might have to use GIT  which you can download from the following[Link](https://git-scm.com/downloads)
 
 
 
