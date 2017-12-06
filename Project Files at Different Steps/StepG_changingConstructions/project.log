@@ -1,0 +1,328 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {83b5a8eb-85fc-4755-ac5b-291edb137731} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {83b5a8eb-85fc-4755-ac5b-291edb137731} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {83b5a8eb-85fc-4755-ac5b-291edb137731} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {83b5a8eb-85fc-4755-ac5b-291edb137731} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {d8fac68e-49b5-49f7-8c24-1c195bc07cba} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {d8fac68e-49b5-49f7-8c24-1c195bc07cba} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {d8fac68e-49b5-49f7-8c24-1c195bc07cba} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {d8fac68e-49b5-49f7-8c24-1c195bc07cba} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {ec4e6a6f-88f9-48cd-a5fa-4f0eb5678a41} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {ec4e6a6f-88f9-48cd-a5fa-4f0eb5678a41} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {ec4e6a6f-88f9-48cd-a5fa-4f0eb5678a41} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {ec4e6a6f-88f9-48cd-a5fa-4f0eb5678a41} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {7597b39a-c3c8-4ea8-967f-e8be93f91f91} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {7597b39a-c3c8-4ea8-967f-e8be93f91f91} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {7597b39a-c3c8-4ea8-967f-e8be93f91f91} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {7597b39a-c3c8-4ea8-967f-e8be93f91f91} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {787e832d-1193-4f2c-af84-e8ff9de374ff} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {787e832d-1193-4f2c-af84-e8ff9de374ff} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {787e832d-1193-4f2c-af84-e8ff9de374ff} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {787e832d-1193-4f2c-af84-e8ff9de374ff} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 000000D9CD6FF860
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/behzad/OpenStudio/Measures
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.x10488/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultConstructionSet' and named '189.1-2009 - CZ1 - Office' to '189.1-2009 - CZ1 - Office 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Partition' to 'Interior Partition 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8' to 'ExtSlabCarpet 4in ClimateZone 1-8 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 1' to 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 7' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 1' to 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Floor' to 'Interior Floor 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Wall' to 'Interior Wall 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Ceiling' to 'Interior Ceiling 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWindow ClimateZone 1' to 'ASHRAE 189.1-2009 ExtWindow ClimateZone 7' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Exterior Door' to 'Exterior Door 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Window' to 'Interior Window 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Door' to 'Interior Door 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'G05 25mm wood' to 'G05 25mm wood 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'MAT-CC05 4 HW CONCRETE' to 'MAT-CC05 4 HW CONCRETE 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material:NoMass' and named 'CP02 CARPET PAD' to 'CP02 CARPET PAD 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named '1IN Stucco' to '1IN Stucco 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named '8IN Concrete HW' to '8IN Concrete HW 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'Wall Insulation [31]' to 'Wall Insulation [31] 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named '1/2IN Gypsum' to '1/2IN Gypsum 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'Roof Membrane' to 'Roof Membrane 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'Roof Insulation [18]' to 'Roof Insulation [18] 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'Metal Decking' to 'Metal Decking 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'F16 Acoustic tile' to 'F16 Acoustic tile 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material:AirGap' and named 'F05 Ceiling air space resistance' to 'F05 Ceiling air space resistance 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'M11 100mm lightweight concrete' to 'M11 100mm lightweight concrete 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'G01a 19mm gypsum board' to 'G01a 19mm gypsum board 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material:AirGap' and named 'F04 Wall air space resistance' to 'F04 Wall air space resistance 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:WindowMaterial:Glazing' and named 'Theoretical Glass [167]' to 'Theoretical Glass [167] 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'F08 Metal surface' to 'F08 Metal surface 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'I01 25mm insulation board' to 'I01 25mm insulation board 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:WindowMaterial:Glazing' and named 'Clear 3mm' to 'Clear 3mm 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultConstructionSet' and named '189.1-2009 - CZ2 - Office' to '189.1-2009 - CZ2 - Office 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Partition' to 'Interior Partition 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8' to 'ExtSlabCarpet 4in ClimateZone 1-8 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 2' to 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 8' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2-5' to 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2-5 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Floor' to 'Interior Floor 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Wall' to 'Interior Wall 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Ceiling' to 'Interior Ceiling 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWindow ClimateZone 2' to 'ASHRAE 189.1-2009 ExtWindow ClimateZone 8' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Exterior Door' to 'Exterior Door 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Window' to 'Interior Window 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Door' to 'Interior Door 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'G05 25mm wood' to 'G05 25mm wood 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'MAT-CC05 4 HW CONCRETE' to 'MAT-CC05 4 HW CONCRETE 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material:NoMass' and named 'CP02 CARPET PAD' to 'CP02 CARPET PAD 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named '1IN Stucco' to '1IN Stucco 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named '8IN Concrete HW' to '8IN Concrete HW 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'Wall Insulation [35]' to 'Wall Insulation [35] 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named '1/2IN Gypsum' to '1/2IN Gypsum 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'Roof Membrane' to 'Roof Membrane 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'Roof Insulation [21]' to 'Roof Insulation [21] 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'Metal Decking' to 'Metal Decking 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'F16 Acoustic tile' to 'F16 Acoustic tile 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material:AirGap' and named 'F05 Ceiling air space resistance' to 'F05 Ceiling air space resistance 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'M11 100mm lightweight concrete' to 'M11 100mm lightweight concrete 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'G01a 19mm gypsum board' to 'G01a 19mm gypsum board 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material:AirGap' and named 'F04 Wall air space resistance' to 'F04 Wall air space resistance 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:WindowMaterial:Glazing' and named 'Theoretical Glass [197]' to 'Theoretical Glass [197] 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'F08 Metal surface' to 'F08 Metal surface 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'I01 25mm insulation board' to 'I01 25mm insulation board 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:WindowMaterial:Glazing' and named 'Clear 3mm' to 'Clear 3mm 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultConstructionSet' and named '189.1-2009 - CZ4 - Office' to '189.1-2009 - CZ4 - Office 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Partition' to 'Interior Partition 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8' to 'ExtSlabCarpet 4in ClimateZone 1-8 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 4' to 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 9' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2-5' to 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2-5 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Floor' to 'Interior Floor 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Wall' to 'Interior Wall 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Ceiling' to 'Interior Ceiling 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWindow ClimateZone 4-5' to 'ASHRAE 189.1-2009 ExtWindow ClimateZone 4-5 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Exterior Door' to 'Exterior Door 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Window' to 'Interior Window 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'Interior Door' to 'Interior Door 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'G05 25mm wood' to 'G05 25mm wood 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'MAT-CC05 4 HW CONCRETE' to 'MAT-CC05 4 HW CONCRETE 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material:NoMass' and named 'CP02 CARPET PAD' to 'CP02 CARPET PAD 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named '1IN Stucco' to '1IN Stucco 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named '8IN Concrete HW' to '8IN Concrete HW 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'Wall Insulation [37]' to 'Wall Insulation [37] 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named '1/2IN Gypsum' to '1/2IN Gypsum 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'Roof Membrane' to 'Roof Membrane 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'Roof Insulation [21]' to 'Roof Insulation [21] 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'Metal Decking' to 'Metal Decking 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'F16 Acoustic tile' to 'F16 Acoustic tile 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material:AirGap' and named 'F05 Ceiling air space resistance' to 'F05 Ceiling air space resistance 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'M11 100mm lightweight concrete' to 'M11 100mm lightweight concrete 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'G01a 19mm gypsum board' to 'G01a 19mm gypsum board 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material:AirGap' and named 'F04 Wall air space resistance' to 'F04 Wall air space resistance 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:WindowMaterial:Glazing' and named 'Theoretical Glass [207]' to 'Theoretical Glass [207] 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'F08 Metal surface' to 'F08 Metal surface 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'I01 25mm insulation board' to 'I01 25mm insulation board 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:WindowMaterial:Glazing' and named 'Clear 3mm' to 'Clear 3mm 3' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 00000232392508F0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 00000232392508F0
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.x10488/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 7', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 7', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 7', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 7', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8 1', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSurfaceConstructions' and named 'Default Surface Constructions 1' to 'Default Surface Constructions 22' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Wall 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'Interior Wall 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'Interior Wall 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Ceiling 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'Interior Ceiling 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'Interior Ceiling 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Floor 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'Interior Floor 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'Interior Floor 1', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSurfaceConstructions' and named 'Default Surface Constructions 2' to 'Default Surface Constructions 23' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8 1', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSurfaceConstructions' and named 'Default Surface Constructions 3' to 'Default Surface Constructions 24' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWindow ClimateZone 7', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Exterior Door 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'Exterior Door 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Window 1', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSubSurfaceConstructions' and named 'Default Sub Surface Constructions 1' to 'Default Sub Surface Constructions 15' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Door 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Window 1', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSubSurfaceConstructions' and named 'Default Sub Surface Constructions 2' to 'Default Sub Surface Constructions 16' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Partition', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultConstructionSet' and named '189.1-2009 - CZ1 - Office' to '189.1-2009 - CZ1 - Office 2' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 7', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 7', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 7', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 7', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSurfaceConstructions' and named 'Default Surface Constructions 22' to 'Default Surface Constructions 25' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Wall 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'Interior Wall 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'Interior Wall 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Floor 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'Interior Floor 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'Interior Floor 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Ceiling 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'Interior Ceiling 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'Interior Ceiling 1', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSurfaceConstructions' and named 'Default Surface Constructions 23' to 'Default Surface Constructions 26' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8 1', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSurfaceConstructions' and named 'Default Surface Constructions 24' to 'Default Surface Constructions 27' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Window 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWindow ClimateZone 7', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Exterior Door 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'Exterior Door 1', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSubSurfaceConstructions' and named 'Default Sub Surface Constructions 15' to 'Default Sub Surface Constructions 17' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Door 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Window 1', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSubSurfaceConstructions' and named 'Default Sub Surface Constructions 16' to 'Default Sub Surface Constructions 18' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 8', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 8', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 8', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 8', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2-5 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2-5 1', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtRoof IEAD ClimateZone 2-5 1', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSurfaceConstructions' and named 'Default Surface Constructions 4' to 'Default Surface Constructions 28' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Ceiling 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'Interior Ceiling 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'Interior Ceiling 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Wall 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'Interior Wall 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'Interior Wall 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Floor 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'Interior Floor 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'Interior Floor 2', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSurfaceConstructions' and named 'Default Surface Constructions 5' to 'Default Surface Constructions 29' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ExtSlabCarpet 4in ClimateZone 1-8 2', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSurfaceConstructions' and named 'Default Surface Constructions 6' to 'Default Surface Constructions 30' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Window 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWindow ClimateZone 8', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Exterior Door 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'Exterior Door 2', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSubSurfaceConstructions' and named 'Default Sub Surface Constructions 3' to 'Default Sub Surface Constructions 19' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Door 2', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'Interior Window 2', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultSubSurfaceConstructions' and named 'Default Sub Surface Constructions 4' to 'Default Sub Surface Constructions 20' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 1' to 'ASHRAE 189.1-2009 ExtWall Mass ClimateZone 10' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 4 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 4 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 4 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 4 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 5 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 5 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 5 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 5 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Material' and named 'Wall Insulation [36]' to 'Wall Insulation [36] 1' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 1 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 2 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 4 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 4 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 4 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 4 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 4 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 4 in Object of type 'OS:Construction' and named 'ourModifiedExternalWall', as there is no Material object referenced by the corresponding field.
+[saveModel] <-2> Saved model to 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.x10488/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/behzad/AppData/Local/Temp/OpenStudio.x10488/resources to C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th/StepG_changingConstructions
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.x10488/resources' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th/StepG_changingConstructions'
+[copyDir] <-1> Creating directory named = 'StepG_changingConstructions' in parentDstDir = 'C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th/StepG_changingConstructions' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.x10488/resources'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.x10488/resources/files' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th/StepG_changingConstructions/files'
+[copyDir] <-1> Creating directory named = 'files' in parentDstDir = 'C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th/StepG_changingConstructions'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th/StepG_changingConstructions/files' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.x10488/resources/files'
