@@ -1,0 +1,135 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {83b5a8eb-85fc-4755-ac5b-291edb137731} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {83b5a8eb-85fc-4755-ac5b-291edb137731} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {83b5a8eb-85fc-4755-ac5b-291edb137731} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {83b5a8eb-85fc-4755-ac5b-291edb137731} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {d8fac68e-49b5-49f7-8c24-1c195bc07cba} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {d8fac68e-49b5-49f7-8c24-1c195bc07cba} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {d8fac68e-49b5-49f7-8c24-1c195bc07cba} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {d8fac68e-49b5-49f7-8c24-1c195bc07cba} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {ec4e6a6f-88f9-48cd-a5fa-4f0eb5678a41} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {ec4e6a6f-88f9-48cd-a5fa-4f0eb5678a41} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {ec4e6a6f-88f9-48cd-a5fa-4f0eb5678a41} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {ec4e6a6f-88f9-48cd-a5fa-4f0eb5678a41} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {7597b39a-c3c8-4ea8-967f-e8be93f91f91} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {7597b39a-c3c8-4ea8-967f-e8be93f91f91} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {7597b39a-c3c8-4ea8-967f-e8be93f91f91} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {7597b39a-c3c8-4ea8-967f-e8be93f91f91} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {787e832d-1193-4f2c-af84-e8ff9de374ff} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {787e832d-1193-4f2c-af84-e8ff9de374ff} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {787e832d-1193-4f2c-af84-e8ff9de374ff} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {787e832d-1193-4f2c-af84-e8ff9de374ff} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 000000F31BFAFAB0
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/behzad/OpenStudio/Measures
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.O11256/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultScheduleSet' and named '189.1-2009 - Office - BreakRoom - CZ1-3 Schedule Set' to '189.1-2009 - Office - BreakRoom - CZ1-3 Schedule Set 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:DefaultScheduleSet' and named '189.1-2009 - Office - OpenOffice - CZ1-3 Schedule Set' to '189.1-2009 - Office - OpenOffice - CZ1-3 Schedule Set 1' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Ruleset' and named 'Office Work Occ' to 'Office Work Occ 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Day' and named 'Office Bldg Occ Default Schedule' to 'Office Bldg Occ Default Schedule 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Day' and named 'Office Bldg Occ Summer Design Day' to 'Office Bldg Occ Summer Design Day 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Day' and named 'Office Bldg Occ Winter Design Day' to 'Office Bldg Occ Winter Design Day 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Rule' and named 'Office Work Occ Rule 1' to 'Office Work Occ Rule 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Day' and named 'Office Bldg Occ Rule 1 Day Schedule' to 'Office Bldg Occ Rule 1 Day Schedule 2' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Rule' and named 'Office Work Occ Rule 2' to 'Office Work Occ Rule 4' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Day' and named 'Office Bldg Occ Rule 2 Day Schedule' to 'Office Bldg Occ Rule 2 Day Schedule 2' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Ruleset' and named 'Office Bldg Light' to 'Office Bldg Light 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Day' and named 'Office Bldg Light Default Schedule' to 'Office Bldg Light Default Schedule 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Day' and named 'Office Bldg Light Summer Design Day' to 'Office Bldg Light Summer Design Day 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Day' and named 'Office Bldg Light Winter Design Day' to 'Office Bldg Light Winter Design Day 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Rule' and named 'Office Bldg Light Rule 1' to 'Office Bldg Light Rule 3' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Day' and named 'Office Bldg Light Rule 1 Day Schedule' to 'Office Bldg Light Rule 1 Day Schedule 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Rule' and named 'Office Bldg Light Rule 2' to 'Office Bldg Light Rule 4' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Schedule:Day' and named 'Office Bldg Light Rule 2 Day Schedule' to 'Office Bldg Light Rule 2 Day Schedule 1' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000002D558DB3AF0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000002D558DB3AF0
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:People:Definition' and named '189.1-2009 - Office - BreakRoom - CZ1-3 People Definition' to '189.1-2009 - Office - BreakRoom - CZ1-3 People Definition 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:People:Definition' and named '189.1-2009 - Office - OpenOffice - CZ1-3 People Definition' to '189.1-2009 - Office - OpenOffice - CZ1-3 People Definition 1' to avoid a name conflict upon WorkspaceObject addition.
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:Lights:Definition' and named '189.1-2009 - Office - BreakRoom - CZ1-3 Lights Definition' to '189.1-2009 - Office - BreakRoom - CZ1-3 Lights Definition 1' to avoid a name conflict upon WorkspaceObject addition.
+[saveModel] <-2> Saved model to 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.O11256/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/behzad/AppData/Local/Temp/OpenStudio.O11256/resources to C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th/StepG_changingDefaults
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.O11256/resources' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th/StepG_changingDefaults'
+[copyDir] <-1> Creating directory named = 'StepG_changingDefaults' in parentDstDir = 'C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th/StepG_changingDefaults' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.O11256/resources'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.O11256/resources/files' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th/StepG_changingDefaults/files'
+[copyDir] <-1> Creating directory named = 'files' in parentDstDir = 'C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th/StepG_changingDefaults'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/_0_EETBS- On-going/OpenStudio 2017-2018/InClass_Nov14th/StepG_changingDefaults/files' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.O11256/resources/files'
