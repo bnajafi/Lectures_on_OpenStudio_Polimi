@@ -1,0 +1,59 @@
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 000000921ACFF780
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/behzad/OpenStudio/Measures
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.model.WeatherFile] <-2> Setting weather file url to file:files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.setFileExtension] <0> Path p, 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI Technical Environmental Systems Shared Folder/Weather Data/ITA_Piacenza.160840_IGDG.ddy', has an unexpected file extension. Was expecting 'idf'.
+[openstudio.energyplus.GeometryTranslator] <0> Could not find GlobalGeometryRules object, assuming defaults
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.setFileExtension] <0> Path p, 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI Technical Environmental Systems Shared Folder/Weather Data/ITA_Piacenza.160840_IGDG.ddy', has an unexpected file extension. Was expecting 'idf'.
+[openstudio.energyplus.GeometryTranslator] <0> Could not find GlobalGeometryRules object, assuming defaults
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.runmanager.Workflow] <-2> creating workflow
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources/run.db) Persisting job status for {ea076e6e-fa1d-44e0-ae09-d22432b29aa5}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {ea076e6e-fa1d-44e0-ae09-d22432b29aa5}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {ea076e6e-fa1d-44e0-ae09-d22432b29aa5}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources/run.db) Persisting job status for {cd567056-a512-4227-af08-1e0943eecb8e}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {cd567056-a512-4227-af08-1e0943eecb8e}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {cd567056-a512-4227-af08-1e0943eecb8e}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources/run.db) Persisting job status for {9487104f-b54d-4c47-b438-80df8ce05a24}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {9487104f-b54d-4c47-b438-80df8ce05a24}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {9487104f-b54d-4c47-b438-80df8ce05a24}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources/run.db) Persisting job status for {36306a9f-fc98-4953-bee8-4729f8b21e7e}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {36306a9f-fc98-4953-bee8-4729f8b21e7e}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {36306a9f-fc98-4953-bee8-4729f8b21e7e}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources/run.db) Persisting job status for {624a5ba2-6f1c-4fd6-af82-84069265f10d}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {624a5ba2-6f1c-4fd6-af82-84069265f10d}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {624a5ba2-6f1c-4fd6-af82-84069265f10d}
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources to C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/Open Studio Files/Dec 22/beforeOpenStudio
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/Open Studio Files/Dec 22/beforeOpenStudio'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/Open Studio Files/Dec 22/beforeOpenStudio' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/Open Studio Files/Dec 22/beforeOpenStudio/files' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/Open Studio Files/Dec 22/beforeOpenStudio/run' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/Open Studio Files/Dec 22/beforeOpenStudio/scripts' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources/files' to 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/Open Studio Files/Dec 22/beforeOpenStudio/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/behzad/Dropbox/_2_Teaching Activities/POLIMI 2016-2017 Energy and Environmental Technolgoies for Building Systems/Open Studio Files/Dec 22/beforeOpenStudio/files' with source 'C:/Users/behzad/AppData/Local/Temp/OpenStudio.mt8120/resources/files'
